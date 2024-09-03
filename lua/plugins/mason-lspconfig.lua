@@ -5,6 +5,7 @@ return {
       ensure_installed = {
         "ansiblels",
         "bashls",
+        "jsonls",
         "lua_ls",
         "yamlls",
       },
