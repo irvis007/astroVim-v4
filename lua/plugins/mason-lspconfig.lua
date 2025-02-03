@@ -5,6 +5,7 @@ return {
       ensure_installed = {
         "ansiblels",
         "bashls",
+        "gopls",
         "jsonls",
         "lua_ls",
         "yamlls",
@@ -12,3 +13,5 @@ return {
     },
   },
 }
+
+-- https://github.com/williamboman/mason-lspconfig.nvim?tab=readme-ov-file#available-lsp-servers
