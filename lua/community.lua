@@ -26,6 +26,7 @@ return {
   { import = "astrocommunity.editing-support.telescope-undo-nvim" },
   { import = "astrocommunity.editing-support.text-case-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
+  { import = "astrocommunity.editing-support.dial-nvim" },
   { import = "astrocommunity.recipes.auto-session-restore" },
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
