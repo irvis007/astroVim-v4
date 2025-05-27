@@ -15,7 +15,7 @@ if not pcall(require, "lazy") then
   vim.cmd.quit()
 end
 
-vim.lsp.set_log_level(“off”)
+vim.lsp.set_log_level("off")
 
 require "lazy_setup"
 require "polish"
